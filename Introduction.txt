@@ -1,0 +1,31 @@
+
+
+		Tic-Tac-Toe using Socket Programming
+		   Computer Networks Mini-Project
+
+					By
+				Chitturi Sai Suman (1602-18-733-097),
+				Praneeth Kapila	   (1602-18-733-116).
+
+
+	Socket Programming is a way of connecting two nodes on a
+Network to communicate with each other. One socket(node) listens on a
+particular port at an IP, while other socket reaches out to the other
+to form a connection. Server forms the listener socket while client 
+reaches out to the server.
+
+
+	The game begins when server and client are connected.
+The client makes the first move and the corresponding move is sent over
+the TCP network. Then the board gets updated accordingly at both ends.
+Server and client make their moves alternatively until one of them wins
+or the game ends in a draw..
+
+	Instructions:
+
+	1. First Execute the Server Program, then the Client
+	2. Client has to make the first move
+	3. X represents Client's moves and O represents Server's moves.
+
+
+	Press any Key to Continue...		

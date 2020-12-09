@@ -1,0 +1,13 @@
+
+
+		Tic-Tac-Toe using Socket Programming
+
+		Computer Networks Mini-Project
+
+					By
+				Chitturi Sai Suman (1602-18-733-097),
+				Praneeth Kapila    (1602-18-733-116).
+
+
+		For any Queries or Feedback,
+			please write to saisumanchitturi@gmail.com
