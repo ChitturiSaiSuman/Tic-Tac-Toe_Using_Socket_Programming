@@ -250,5 +250,6 @@ int main() {
 	close(ssid);
 	printConclusion();
 	sleep(5);
+	clear();
 	return 0;
 }

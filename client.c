@@ -244,5 +244,6 @@ int main() {
 	close(csid);
 	printConclusion();
 	sleep(5);
+	clear();
 	return 0;
 }
